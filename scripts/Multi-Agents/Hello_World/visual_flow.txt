@@ -1,0 +1,10 @@
+[User] 
+   │
+   ▼
+[Supervisor Agent]
+   ├── Task 1 ➝ [Sub-Agent] → "Hello World"
+   ├── Task 2 ➝ [Sub-Agent] → "Hello World" (not French)
+   ▼
+ Aggregates result
+   ▼
+Returns combined response to User
