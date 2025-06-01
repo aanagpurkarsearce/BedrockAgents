@@ -1,0 +1,6 @@
+BedrockAgentStack Agentid = ZUFJCTUW6W
+BedrockAgentStack.Agentname = booking-agent
+BedrockAgentStack.Datasourceid = FP91GSETTI
+BedrockAgentStack-Knowedgebaseid = 816TCSHOJC
+BedrockAgentStack.Knowedgebasename = booking-agent-kb
+BedrockAgentStack.S3bucket = booking-agentus-east-1-442120074911
